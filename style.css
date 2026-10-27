@@ -9,3 +9,13 @@ body{
 h1{
     color:#2b6cb0;
 }
+
+nav{
+    margin-bottom:30px;
+}
+
+nav a{
+    color:#2b6cb0;
+    text-decoration:none;
+    margin:0 10px;
+}
