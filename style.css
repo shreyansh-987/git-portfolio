@@ -36,3 +36,8 @@ nav a{
 }
 
 /* TODO: dark mode styles*/
+
+#skills{
+    margin:30px auto;
+    max-width:500px;
+}
