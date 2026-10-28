@@ -20,3 +20,4 @@ Then open `index.html` in your browser.
 
 ## What I practised
 Commits, branching, merging, conflict resolution, stash, rebase and pull requests.
+Author: Shreyansh.
