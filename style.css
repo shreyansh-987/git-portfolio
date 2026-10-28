@@ -41,3 +41,14 @@ nav a{
     margin:30px auto;
     max-width:500px;
 }
+
+
+body.dark {
+  background: #1a202c;
+  color: #f7fafc;
+}
+
+body.dark #projects,
+body.dark #contact {
+  background: #2d3748;
+}
