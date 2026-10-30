@@ -52,3 +52,7 @@ body.dark #projects,
 body.dark #contact {
   background: #2d3748;
 }
+#about{
+    margin:30px auto;
+    max-width: 500px;
+}
